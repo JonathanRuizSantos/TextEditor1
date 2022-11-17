@@ -1,0 +1,37 @@
+C:\Users\jon_r\Downloads\EditorTextos\bin\Debug\net6.0-windows\EditorTextos.exe
+C:\Users\jon_r\Downloads\EditorTextos\bin\Debug\net6.0-windows\EditorTextos.deps.json
+C:\Users\jon_r\Downloads\EditorTextos\bin\Debug\net6.0-windows\EditorTextos.runtimeconfig.json
+C:\Users\jon_r\Downloads\EditorTextos\bin\Debug\net6.0-windows\EditorTextos.dll
+C:\Users\jon_r\Downloads\EditorTextos\bin\Debug\net6.0-windows\EditorTextos.pdb
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.csproj.AssemblyReference.cache
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.csproj.GenerateResource.cache
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.AssemblyInfoInputs.cache
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.AssemblyInfo.cs
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.dll
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\refint\EditorTextos.dll
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.pdb
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.genruntimeconfig.cache
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\ref\EditorTextos.dll
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.TextEditorMain.resources
+C:\Users\jon_r\Downloads\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.Properties.Resources.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\bin\Debug\net6.0-windows\EditorTextos.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\bin\Debug\net6.0-windows\EditorTextos.deps.json
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\bin\Debug\net6.0-windows\EditorTextos.runtimeconfig.json
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\bin\Debug\net6.0-windows\EditorTextos.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\bin\Debug\net6.0-windows\EditorTextos.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.csproj.AssemblyReference.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.TextEditorMain.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.Properties.Resources.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.csproj.GenerateResource.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.AssemblyInfoInputs.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.AssemblyInfo.cs
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\refint\EditorTextos.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.genruntimeconfig.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\ref\EditorTextos.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Códigos de programación\06 Personales C#\EditorTextos\obj\Debug\net6.0-windows\EditorTextos.Form2.resources
