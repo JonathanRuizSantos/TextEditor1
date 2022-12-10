@@ -37,3 +37,4 @@ Entre los elementos usados para este proyecto se encuentran:
 4. saveFileDialog
 5. colorDialog
 6. fontDialog
+7. timer
